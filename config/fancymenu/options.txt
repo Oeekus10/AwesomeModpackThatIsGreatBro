@@ -9,7 +9,7 @@ B:play_vanilla_menu_music = 'true';
 
 B:modpack_mode = 'false';
 B:show_customization_overlay = 'false';
-B:advanced_customization_mode = 'true';
+B:advanced_customization_mode = 'false';
 
 
 ##[loading]
@@ -29,7 +29,7 @@ B:game_intro_ignore_animation_loops = 'true';
 B:show_custom_window_icon = 'true';
 S:custom_window_icon_macos = '/config/fancymenu/assets/icons/icon.icns';
 S:custom_window_icon_32 = '/config/fancymenu/assets/icons/icon_32x32.png';
-S:custom_window_title = 'Minecraft NeoForge 1.21.1 (yah v1.1)';
+S:custom_window_title = 'Minecraft NeoForge 1.21.1 (AwesomeModpackThatIsGreatBro 1.0)';
 S:custom_window_icon_16 = '/config/fancymenu/assets/icons/icon_16x16.png';
 
 
